@@ -9,6 +9,7 @@
 export default {
   name: 'Item',
   props: {
+      campi: Array,
       screen_name: String,
       myid: Number,
       retweet: Number,

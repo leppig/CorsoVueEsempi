@@ -1,0 +1,5 @@
+Giorgio Donnini
+ Alcune colonne si espandono coi bottoni e scompaiono se si clicca l'elenco.
+
+ In teoria cliccando (alcune) alcuni TH  dovrebbe riordinare la tabella. 
+ Ma js non trova il nome della colonna... 
